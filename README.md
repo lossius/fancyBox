@@ -3,6 +3,7 @@ fancyBox with Bootstrap
 
 fancyBox is a tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.
 This is a modified version of the demo page from the original repository that combines fancyBox and Bootstrap.
+An online demostration of fancyBox with Boostrap can be seen here: http://lossius.github.io/fancyBoxWithBootstrap/
 
 More information and examples on fancyBox: http://www.fancyapps.com/fancybox/
 
