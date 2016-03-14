@@ -1,17 +1,31 @@
-fancyBox
-========
+fancyBox with Bootstrap
+=======================
 
 fancyBox is a tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.
+This is a modified version of the demo page from the original repository that combines fancyBox and Bootstrap.
 
-More information and examples: http://www.fancyapps.com/fancybox/
+More information and examples on fancyBox: http://www.fancyapps.com/fancybox/
 
-License: http://www.fancyapps.com/fancybox/#license
+fancyBox License: http://www.fancyapps.com/fancybox/#license
 
-Copyright (c) 2012 Janis Skarnelis - janis@fancyapps.com
+fancyBox is copyright (c) 2012 Janis Skarnelis - janis@fancyapps.com
+
+
+More infornation on Bootstrap: http://getbootstrap.com/
+
+Bootstrap license: https://github.com/twbs/bootstrap/blob/master/LICENSE
+
+Bootstrap is copyright (c) 2011-2016 Twitter, Inc.
 
 
 How to use
 ----------
+
+Follow the regular instructions for Bootstrap and fancyBox, with one exception:
+fancyBox requires jQuery to be loaded in the header rather than footer.
+Please refer to demo/index.html in this repository for an example.
+
+Below are the standard instructions for using fancyBox:
 
 To get started, download the plugin, unzip it and copy files to your website/application directory.
 Load files in the <head> section of your HTML document. Make sure you also add the jQuery library.
